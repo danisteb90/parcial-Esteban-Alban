@@ -1,0 +1,34 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+}
+
+.form-inputs label {
+  font-size: 1.3rem;
+}
+
+.form-inputs input {
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.form-inputs select {
+  width: 300px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.form-container button {
+  width: 300px;
+}
