@@ -7,3 +7,15 @@
   background-color: #ababab;
   box-shadow: 0 0 10px 0 rgba(153, 153, 153, 0.562);
 }
+
+.card-container.high {
+  background-color: #ff00003c;
+}
+
+.card-container.medium {
+  background-color: #ffa5003c;
+}
+
+.card-container.low {
+  background-color: #0080003c;
+}
